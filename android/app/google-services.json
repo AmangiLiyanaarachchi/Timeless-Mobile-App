@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "965774781654",
+    "project_id": "timeless-d8c41",
+    "storage_bucket": "timeless-d8c41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965774781654:android:5ca686e356db7786b02d77",
+        "android_client_info": {
+          "package_name": "com.terabit.timeless.timeless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965774781654-g1u88lpm0v3avj170e9ak1e9rjbgjliu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.terabit.timeless.timeless",
+            "certificate_hash": "d1438eb6a28f5f8cf29c84809961bd3b836eaae8"
+          }
+        },
+        {
+          "client_id": "965774781654-jmv5fjlpnirmucgt2l9qmb8s3m62gfl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB30cAB8CGu5wsJ6st-w_NEGakQhUyZM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965774781654-jmv5fjlpnirmucgt2l9qmb8s3m62gfl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965774781654-o1h2lnc9727t7lhopuvji9gsv1havbm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.terabit.timeless.timeless"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
