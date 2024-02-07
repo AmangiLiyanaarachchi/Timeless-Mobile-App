@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timeless</string>
+    <string name="facebook_app_id">305448098566099</string>
+    <string name="fb_login_protocol_scheme">fb305448098566099</string>
+    <string name="facebook_client_token">4154e25613b0d7f657795a6fe9fb45af</string>
+</resources>
